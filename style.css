@@ -244,7 +244,7 @@ iframe {
 
 @font-face {
     font-family: 'Markazi Text';
-    src: url(../font/Markazi_Text/MarkaziText-VariableFont_wght.ttf) format("truetype");
+    src: url(./font/Markazi_Text/MarkaziText-VariableFont_wght.ttf) format("truetype");
 }
 
 @media all {}
